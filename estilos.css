@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-color: white;
+}
+h1 {
+    font-family: 'Fasthand', cursive;
+    color: rgb(16, 33, 217) !important;
+    font-size: 50px;
+}
+h4 {
+    color: rgb(16, 33, 217);
+    font-family:cursive;
+    font-size: 30px;
+}
+.tabletable-striped{
+    color: azure;
+}
+.misprods{
+    text-align: center;
+}
+tr{
+    font-family: 'Fasthand', cursive;
+    font-size: 20px;
+    color: rgb(133, 12, 226);
+}
